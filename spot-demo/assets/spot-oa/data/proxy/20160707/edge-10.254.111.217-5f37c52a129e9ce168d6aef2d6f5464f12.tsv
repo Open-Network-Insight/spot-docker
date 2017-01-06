@@ -1,0 +1,41 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	01:54:58	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	179	iecvlist.microsoft.com
+2016-07-07	16:36:29	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	187	iecvlist.microsoft.com
+2016-07-07	16:36:29	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	243	iecvlist.microsoft.com
+2016-07-07	06:55:44	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	179	iecvlist.microsoft.com
+2016-07-07	06:55:44	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	235	iecvlist.microsoft.com
+2016-07-07	13:56:44	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	179	iecvlist.microsoft.com
+2016-07-07	13:56:48	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	235	iecvlist.microsoft.com
+2016-07-07	19:58:58	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	179	iecvlist.microsoft.com
+2016-07-07	19:59:02	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	235	iecvlist.microsoft.com
+2016-07-07	17:58:08	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	179	iecvlist.microsoft.com
+2016-07-07	17:58:12	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	235	iecvlist.microsoft.com
+2016-07-07	17:36:33	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	187	iecvlist.microsoft.com
+2016-07-07	17:36:50	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	243	iecvlist.microsoft.com
+2016-07-07	11:16:12	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	187	iecvlist.microsoft.com
+2016-07-07	11:16:15	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	243	iecvlist.microsoft.com
+2016-07-07	08:55:49	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	179	iecvlist.microsoft.com
+2016-07-07	08:55:54	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	235	iecvlist.microsoft.com
+2016-07-07	20:37:28	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	187	iecvlist.microsoft.com
+2016-07-07	20:37:42	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	243	iecvlist.microsoft.com
+2016-07-07	07:05:45	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	-	-	-	443	10.7.210.157	39	156	iecvlist.microsoft.com
+2016-07-07	07:05:45	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	-	-	-	443	10.7.210.157	39	148	iecvlist.microsoft.com
+2016-07-07	04:55:19	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	179	iecvlist.microsoft.com
+2016-07-07	15:36:28	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	179	iecvlist.microsoft.com
+2016-07-07	15:36:28	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	243	iecvlist.microsoft.com
+2016-07-07	12:56:19	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	179	iecvlist.microsoft.com
+2016-07-07	12:56:20	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	235	iecvlist.microsoft.com
+2016-07-07	06:15:53	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	179	iecvlist.microsoft.com
+2016-07-07	06:15:54	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	243	iecvlist.microsoft.com
+2016-07-07	13:06:46	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	-	-	-	443	10.7.210.157	39	148	iecvlist.microsoft.com
+2016-07-07	13:07:41	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	-	-	-	443	10.7.210.157	39	148	iecvlist.microsoft.com
+2016-07-07	13:07:41	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	-	-	-	443	10.7.210.157	39	148	iecvlist.microsoft.com
+2016-07-07	13:07:41	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	-	-	-	443	10.7.210.157	39	148	iecvlist.microsoft.com
+2016-07-07	07:55:47	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	179	iecvlist.microsoft.com
+2016-07-07	07:55:48	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	235	iecvlist.microsoft.com
+2016-07-07	07:15:55	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	187	iecvlist.microsoft.com
+2016-07-07	07:15:55	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	243	iecvlist.microsoft.com
+2016-07-07	08:16:00	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	187	iecvlist.microsoft.com
+2016-07-07	08:16:01	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	243	iecvlist.microsoft.com
+2016-07-07	10:56:03	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Internet Explorer	-	-	443	10.7.210.157	39	179	iecvlist.microsoft.com
+2016-07-07	10:56:05	10.254.111.217	iecvlist.microsoft.com	Technology/Internet	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko	-	-	443	10.7.210.157	39	235	iecvlist.microsoft.com

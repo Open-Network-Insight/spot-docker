@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:19	10.236.198.13	st.dynamicyield.com	Web Ads/Analytics	OK	GET	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36	text/javascript;%20charset=utf-8	http://www.ynet.co.il/home/0,7340,L-184,00.html	80	10.7.210.157	8549	636	st.dynamicyield.com/ast?sec=8765235&l=section

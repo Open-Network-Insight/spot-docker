@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:20	10.236.199.90	www.google.com	Search Engines/Portals	OK	GET	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)	text/html	-	80	10.7.210.157	885	1889	www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=1&ved=0CB8QFjAA&url=http%3A%2F%2Fwww.ynet.co.il%2F&ei=cgzzVP_lF4nooASFvoDQCw&usg=AFQjCNHXH-RlurCGDDHucX9ydQSiGkBcuA&sig2=lkE2D7orVaeOPInil1GJvw

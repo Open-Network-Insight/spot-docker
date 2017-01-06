@@ -1,0 +1,15 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	13:56:59	10.7.199.64	clients6.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0	-	-	443	10.7.210.157	39	219	clients6.google.com
+2016-07-07	00:44:24	10.7.199.64	clients6.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0	-	-	443	10.7.210.157	39	219	clients6.google.com
+2016-07-07	21:01:42	10.7.199.64	clients6.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0	-	-	443	10.7.210.157	39	219	clients6.google.com
+2016-07-07	11:50:05	10.7.199.64	clients6.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0	-	-	443	10.7.210.157	39	219	clients6.google.com
+2016-07-07	18:52:49	10.7.199.64	clients6.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0	-	-	443	10.7.210.157	39	219	clients6.google.com
+2016-07-07	10:46:36	10.7.199.64	clients6.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0	-	-	443	10.7.210.157	39	219	clients6.google.com
+2016-07-07	20:35:58	10.7.199.64	clients6.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0	-	-	443	10.7.210.157	39	219	clients6.google.com
+2016-07-07	01:56:59	10.7.199.64	clients6.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0	-	-	443	10.7.210.157	39	219	clients6.google.com
+2016-07-07	16:04:28	10.7.199.64	clients6.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0	-	-	443	10.7.210.157	39	219	clients6.google.com
+2016-07-07	12:56:20	10.7.199.64	clients6.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0	-	-	443	10.7.210.157	39	219	clients6.google.com
+2016-07-07	00:09:28	10.7.199.64	clients6.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0	-	-	443	10.7.210.157	39	219	clients6.google.com
+2016-07-07	06:04:05	10.7.199.64	clients6.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0	-	-	443	10.7.210.157	39	219	clients6.google.com
+2016-07-07	23:36:44	10.7.199.64	clients6.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0	-	-	443	10.7.210.157	39	219	clients6.google.com
+2016-07-07	06:19:56	10.7.199.64	clients6.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0	-	-	443	10.7.210.157	39	219	clients6.google.com

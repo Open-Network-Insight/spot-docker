@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:19	10.254.14.172	ar.voicefive.com	Business/Economy	OK	GET	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0	application/x-javascript	http://www.nfl.com/	80	10.7.210.157	14342	3787	ar.voicefive.com/bmx3/broker.pli?c1=3&c3=8513278&c4=61241191&c5=115113837&c6=&c10=1&c11=1873526&c12=p304487051&c13=728x90&c16=dcm&c2=14617400&ax_iframe=1&ns_ce_mod=bsl_lf&ns__p=1425214574735&

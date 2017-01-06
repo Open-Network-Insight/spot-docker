@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:18	10.252.205.195	www.famousfootwear.com	Shopping	OK	GET	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; BOIE9;ENUS; rv:11.0) like Gecko	image/jpeg	http://www.famousfootwear.com/womens	80	10.7.210.157	4137	2223	www.famousfootwear.com/productimages/shoes_ib51636.jpg?trim.threshold=105&maxheight=200&maxwidth=186

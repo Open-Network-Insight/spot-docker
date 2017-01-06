@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:19	10.236.198.13	www.winwin.co.il	Real Estate	OK	GET	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36	image/jpeg	http://www.ynet.co.il/WinWinCooperation/CdaFooterWinWinIFrameForHomepage/0,13825,2,00.html	80	10.7.210.157	9198	774	www.winwin.co.il/AttractiveAds_Media/857307_0e196764-d70f-45ad-8.jpg.ashx?width=121&height=78

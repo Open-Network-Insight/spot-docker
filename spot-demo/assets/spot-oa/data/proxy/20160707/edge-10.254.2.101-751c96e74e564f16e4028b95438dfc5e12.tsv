@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:19	10.254.2.101	63.80.4.86	Content Servers	OK	POST	Shockwave Flash	application/x-fcs	http://www.vox.com/2015/2/27/8119829/house-of-cards-spacey-southern-accent	80	10.7.210.157	245	382	63.80.4.86/idle/-XSmdz02ySL6yU_Z/1818

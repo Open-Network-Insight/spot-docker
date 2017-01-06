@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:21	137.102.230.54	96.17.15.190	Audio/Video Clips	OK	POST	Shockwave Flash	application/x-fcs	http://www.amazon.com/gp/product/B00R6Y882A/ref=aiv_ply_inst_ctf_tv?ie=UTF8&downloadBox=1&redirect=true&ref_=dv_dp_ep8	80	10.7.210.157	245	479	96.17.15.190/idle/WUtmdz02zSLBif9Z/3391

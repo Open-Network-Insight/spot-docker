@@ -1,0 +1,12 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	09:59:14	10.236.199.90	lh4.googleusercontent.com	Content Servers	OK	CONNECT	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)	-	-	443	10.7.210.157	39	243	lh4.googleusercontent.com
+2016-07-07	16:34:13	10.236.199.90	lh4.googleusercontent.com	Content Servers	OK	CONNECT	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)	-	-	443	10.7.210.157	39	243	lh4.googleusercontent.com
+2016-07-07	16:34:13	10.236.199.90	lh4.googleusercontent.com	Content Servers	OK	CONNECT	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)	-	-	443	10.7.210.157	39	243	lh4.googleusercontent.com
+2016-07-07	16:34:19	10.236.199.90	lh4.googleusercontent.com	Content Servers	OK	CONNECT	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)	-	-	443	10.7.210.157	39	243	lh4.googleusercontent.com
+2016-07-07	14:43:56	10.236.199.90	lh4.googleusercontent.com	Content Servers	OK	CONNECT	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)	-	-	443	10.7.210.157	39	243	lh4.googleusercontent.com
+2016-07-07	12:05:06	10.236.199.90	lh4.googleusercontent.com	Content Servers	OK	CONNECT	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)	-	-	443	10.7.210.157	39	243	lh4.googleusercontent.com
+2016-07-07	12:56:19	10.236.199.90	lh4.googleusercontent.com	Content Servers	OK	CONNECT	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)	-	-	443	10.7.210.157	39	243	lh4.googleusercontent.com
+2016-07-07	13:01:07	10.236.199.90	lh4.googleusercontent.com	Content Servers	OK	CONNECT	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)	-	-	443	10.7.210.157	39	243	lh4.googleusercontent.com
+2016-07-07	12:25:03	10.236.199.90	lh4.googleusercontent.com	Content Servers	OK	CONNECT	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)	-	-	443	10.7.210.157	39	243	lh4.googleusercontent.com
+2016-07-07	16:05:25	10.236.199.90	lh4.googleusercontent.com	Content Servers	OK	CONNECT	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)	-	-	443	10.7.210.157	39	243	lh4.googleusercontent.com
+2016-07-07	16:07:06	10.236.199.90	lh4.googleusercontent.com	Content Servers	OK	CONNECT	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)	-	-	443	10.7.210.157	39	243	lh4.googleusercontent.com
