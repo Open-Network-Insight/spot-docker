@@ -27,12 +27,18 @@ the spot-demo is the source for apachespot/spot-demo
 
 ## **Build**
 
-for an example build we will use the `spot-demo` and name it accordingly, al
+for an example build we will use the `spot-demo`
+
 1. download source code `git clone https://github.com/Open-Network-Insight/spot-docker`
+
 2. select project folder `cd spot-demo`
+
 3. build image `docker build -t spot-demo .`
+
     a. the `-t [value] names and optionally tags the build image`
+
     b. the `.` tells docker to look in the current folder for the `Dockerfile`
+
 4. run the image `docker run -it -p 8889:8889 spot-demo`
 
 ## **Needs**
