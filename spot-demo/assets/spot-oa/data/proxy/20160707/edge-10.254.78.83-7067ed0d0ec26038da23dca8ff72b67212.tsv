@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:19	10.254.78.83	netstorage.taboola.com	Web Ads/Analytics	Not Modified	GET	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36	application/x-javascript	http://www.inquisitr.com/1881975/westboro-baptist-church-announces-intent-to-picket-leonard-nimoys-funeral/	80	10.7.210.157	360	721	netstorage.taboola.com/libtrc/common/cross-check.js

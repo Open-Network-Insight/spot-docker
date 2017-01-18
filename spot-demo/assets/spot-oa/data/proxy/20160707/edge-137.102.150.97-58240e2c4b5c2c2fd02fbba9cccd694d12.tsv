@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:20	137.102.150.97	4.27.8.21	Audio/Video Clips	OK	POST	Shockwave Flash	application/x-fcs	http://www.hulu.com/watch/467046	443	10.7.210.157	22484	394	4.27.8.21/idle/eNbmVWkswmxUSJzZ/20592

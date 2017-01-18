@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:20	10.88.178.102	evcs-ocsp.ws.symantec.com	Technology/Internet	OK	GET	Microsoft-CryptoAPI/6.1	application/ocsp-response	-	80	10.7.210.157	2201	279	evcs-ocsp.ws.symantec.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQckPwgwK2Thdm9JYVwXQ4ERz3XDQQUo47PGUI9MeGrIYmEbcvZeaKysloCEHX7Uch2jvaSe%2FQdoaI0odk%3D

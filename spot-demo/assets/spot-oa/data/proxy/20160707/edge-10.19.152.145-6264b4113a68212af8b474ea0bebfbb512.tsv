@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:19	10.19.152.145	crl.microsoft.com	Non-Viewable/Infrastructure	Not Modified	GET	Microsoft-CryptoAPI/6.1	application/pkix-crl	-	80	10.7.210.157	289	288	crl.microsoft.com/pki/crl/products/tspca.crl

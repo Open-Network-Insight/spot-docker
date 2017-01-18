@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:21	143.182.101.84	54.148.86.233	none	OK	GET	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36	application/octet-stream	-	8095	10.7.210.157	318	477	54.148.86.233/socket.io/?clientType=Web&clientVersion=1.5&token=CCO&EIO=3&transport=polling&t=1425214554992-17396&sid=3jH5hTeehN0XnQiRAAAX

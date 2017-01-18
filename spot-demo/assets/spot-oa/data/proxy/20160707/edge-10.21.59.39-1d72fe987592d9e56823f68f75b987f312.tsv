@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:19	10.21.59.39	sc.iasds01.com	Web Ads/Analytics	Found	GET	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.1.4322; .NET4.0C; .NET4.0E; MS-RTC LM 8; InfoPath.3)	-	http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html	80	10.7.210.157	377	499	sc.iasds01.com/dtc?asid=5afafd7e-c012-11e4-895e-00259069c34e

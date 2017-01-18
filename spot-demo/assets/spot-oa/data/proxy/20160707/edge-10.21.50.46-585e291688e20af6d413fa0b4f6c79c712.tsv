@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:21	10.21.50.46	aspen.turner.com	Business/Economy	OK	POST	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko	application/json	http://z.cdn.turner.com/xslo/cvp/core/base/0/CVPBase.swf?isEmbedContainer=false&domId=cvp_cnnvideo_37c0e83c&context=expansion&site=cnn&cvpSe	80	10.7.210.157	584	1542	aspen.turner.com/api/hello

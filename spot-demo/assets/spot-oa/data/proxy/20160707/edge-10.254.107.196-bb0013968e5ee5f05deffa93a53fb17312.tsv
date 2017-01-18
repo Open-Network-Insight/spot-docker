@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:20	10.254.107.196	video1.fastclick.net	Web Ads/Analytics	OK	GET	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36	image/gif	http://www.wunderground.com/weather-forecast/zmw:50112.1.99999?MR=1	80	10.7.210.157	421	648	video1.fastclick.net/w/video.impr?vcsid=63687&vccid=12347&vccrid=1207931&lrt=131388843&rndtru=4c7e9b9c-6b4a-4fcc-bdba-7e95bb579c73

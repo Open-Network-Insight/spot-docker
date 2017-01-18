@@ -1,0 +1,8 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	03:26:04	10.252.201.254	en-us.appex-rf.msn.com	Search Engines/Portals	OK	GET	Microsoft-WNS/6.2	application/xml;%20charset=utf-8	-	80	10.7.210.157	1594	158	en-us.appex-rf.msn.com/cgtile/v1/en-us/Sports/Today.xml
+2016-07-07	21:26:31	10.252.201.254	en-us.appex-rf.msn.com	Search Engines/Portals	OK	GET	Microsoft-WNS/6.2	application/xml;%20charset=utf-8	-	80	10.7.210.157	1222	158	en-us.appex-rf.msn.com/cgtile/v1/en-us/Sports/Today.xml
+2016-07-07	19:56:28	10.252.201.254	en-us.appex-rf.msn.com	Search Engines/Portals	OK	GET	Microsoft-WNS/6.2	application/xml;%20charset=utf-8	-	80	10.7.210.157	1220	158	en-us.appex-rf.msn.com/cgtile/v1/en-us/Sports/Today.xml
+2016-07-07	12:56:18	10.252.201.254	en-us.appex-rf.msn.com	Search Engines/Portals	OK	GET	Microsoft-WNS/6.2	application/xml;%20charset=utf-8	-	80	10.7.210.157	1695	158	en-us.appex-rf.msn.com/cgtile/v1/en-us/Sports/Today.xml
+2016-07-07	03:56:04	10.252.201.254	en-us.appex-rf.msn.com	Search Engines/Portals	OK	GET	Microsoft-WNS/6.2	application/xml;%20charset=utf-8	-	80	10.7.210.157	1595	158	en-us.appex-rf.msn.com/cgtile/v1/en-us/Sports/Today.xml
+2016-07-07	07:56:10	10.252.201.254	en-us.appex-rf.msn.com	Search Engines/Portals	OK	GET	Microsoft-WNS/6.2	application/xml;%20charset=utf-8	-	80	10.7.210.157	1694	158	en-us.appex-rf.msn.com/cgtile/v1/en-us/Sports/Today.xml
+2016-07-07	09:56:14	10.252.201.254	en-us.appex-rf.msn.com	Search Engines/Portals	OK	GET	Microsoft-WNS/6.2	application/xml;%20charset=utf-8	-	80	10.7.210.157	1693	158	en-us.appex-rf.msn.com/cgtile/v1/en-us/Sports/Today.xml

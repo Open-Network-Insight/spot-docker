@@ -1,0 +1,4 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	14:58:41	10.96.76.184	7.client-channel.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36	-	-	443	10.7.210.157	39	240	7.client-channel.google.com
+2016-07-07	12:56:20	10.96.76.184	7.client-channel.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36	-	-	443	10.7.210.157	39	240	7.client-channel.google.com
+2016-07-07	09:50:46	10.96.76.184	7.client-channel.google.com	Search Engines/Portals	OK	CONNECT	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36	-	-	443	10.7.210.157	39	240	7.client-channel.google.com

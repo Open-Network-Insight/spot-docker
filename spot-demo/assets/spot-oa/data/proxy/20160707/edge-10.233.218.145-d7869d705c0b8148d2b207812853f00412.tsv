@@ -1,0 +1,8 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	20:25:30	10.233.218.145	developerservices1.apple.com	Technology/Internet	OK	CONNECT	Xcode	-	-	443	10.7.210.157	39	162	developerservices1.apple.com
+2016-07-07	02:37:27	10.233.218.145	developerservices1.apple.com	Technology/Internet	OK	CONNECT	Xcode	-	-	443	10.7.210.157	39	162	developerservices1.apple.com
+2016-07-07	23:15:28	10.233.218.145	developerservices1.apple.com	Technology/Internet	OK	CONNECT	Xcode	-	-	443	10.7.210.157	39	162	developerservices1.apple.com
+2016-07-07	15:25:31	10.233.218.145	developerservices1.apple.com	Technology/Internet	OK	CONNECT	Xcode	-	-	443	10.7.210.157	39	162	developerservices1.apple.com
+2016-07-07	05:24:20	10.233.218.145	developerservices1.apple.com	Technology/Internet	OK	CONNECT	Xcode	-	-	443	10.7.210.157	39	162	developerservices1.apple.com
+2016-07-07	12:56:20	10.233.218.145	developerservices1.apple.com	Technology/Internet	OK	CONNECT	Xcode	-	-	443	10.7.210.157	39	162	developerservices1.apple.com
+2016-07-07	00:24:21	10.233.218.145	developerservices1.apple.com	Technology/Internet	OK	CONNECT	Xcode	-	-	443	10.7.210.157	39	162	developerservices1.apple.com

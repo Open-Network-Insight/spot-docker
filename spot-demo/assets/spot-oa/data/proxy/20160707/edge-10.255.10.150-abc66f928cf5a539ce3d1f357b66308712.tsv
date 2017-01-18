@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:19	10.255.10.150	csi.gstatic.com	Search Engines/Portals	No Content	GET	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36	image/gif	http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html	80	10.7.210.157	417	553	csi.gstatic.com/csi?v=3&s=pagead&action=load3pas&it=fb.1432,e2e.19681&e=3311902&rt=lb.5550,ol.18249

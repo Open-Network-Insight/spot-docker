@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-07	12:56:19	10.88.178.102	ocsp.verisign.com	Non-Viewable/Infrastructure	OK	GET	Microsoft-CryptoAPI/6.1	application/ocsp-response	-	80	10.7.210.157	2187	267	ocsp.verisign.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBS56bKHAoUD%2BOyl%2B0LhPg9JxyQm4gQUf9Nlp8Ld7LvwMAnzQzn6Aq8zMTMCEGxZ76nhAOEO4wa6j%2BApJVk%3D
