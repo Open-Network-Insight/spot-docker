@@ -7,7 +7,7 @@ While current threat intelligence tools help, identifying unknown threats and at
 
 ## **Project Structure**
 
-Each project sub folder is intended to be the source for the (Apache Spot organization)[https://hub.docker.com/u/apachespot/] on the (Docker Hub)[https://docs.docker.com/docker-hub/]
+Each project sub folder is intended to be the source for the [Apache Spot organization](https://hub.docker.com/u/apachespot/) on the [Docker Hub](https://docs.docker.com/docker-hub/)
 
 ### *spot-dev*
 
